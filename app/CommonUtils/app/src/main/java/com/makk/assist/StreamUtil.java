@@ -1,4 +1,4 @@
-package com.makk.utils;
+package com.makk.assist;
 
 import java.io.Closeable;
 import java.io.IOException;

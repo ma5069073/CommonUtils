@@ -1,5 +1,7 @@
 package com.makk.utils;
 
+import com.makk.assist.StreamUtil;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 
